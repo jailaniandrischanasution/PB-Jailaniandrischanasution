@@ -8,5 +8,6 @@
     <color name="ripple_color">#1F000000</color>
     <color name="stroke_color">#E0E0E0</color>
     <color name="text_secondary">#757575</color>
+    <color name="divider_color">#E0E0E0</color>
 
 </resources>
